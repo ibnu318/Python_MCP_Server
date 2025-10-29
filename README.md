@@ -1,3 +1,6 @@
+uv add "mcp[cli]" 
+uv add pytest-asyncio
+
 {
     "mcpServers": {
         "about-me": {
@@ -11,3 +14,4 @@
         }
     }
 }
+
